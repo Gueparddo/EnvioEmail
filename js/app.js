@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function(){
         //Asignar los valores
         email[e.target.name]=e.target.value.trim().toLowerCase();
         
-        //Comprobar el objeto de email
+        
 
         comprobarEmail();
         
